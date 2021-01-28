@@ -37,9 +37,10 @@ input::placeholder
 
 }
 
-input:focus
+*:focus
 {
-   outline: none !important;
+    outline: none !important;
+
 }
 
 
